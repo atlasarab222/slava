@@ -1,0 +1,6 @@
+{
+  "name": "Slava",
+  "description": "Mobile portal for doctors, lab workers, and staff of Slava Dent clinic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
